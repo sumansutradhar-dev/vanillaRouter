@@ -1,6 +1,6 @@
 {
   "name": "vanilla-router",
-  "version": "1.0.0",
+  "version": "1.0.1i",
   "description": "A lightweight, dependency‑free router for vanilla JavaScript applications. Supports **History API**, **Hash routing**, dynamic parameters, hydration, one‑time init hooks, custom element selection, and fully overridable navigation handling.",
   "main": "vanillaRouter.js",
   "files": [
